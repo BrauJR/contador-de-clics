@@ -1,7 +1,7 @@
 {
   "name": "contador-de-clics",
   "version": "0.1.0",
-  "homepage": "https://github.com/BrauJR/contador-clics.git",
+  "homepage": "https://BrauJR.github.io/contador-clics.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
